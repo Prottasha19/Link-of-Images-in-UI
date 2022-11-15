@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CompareImages</string>
+    <string name="imageview">ImageView</string>
+</resources>
